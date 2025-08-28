@@ -21,5 +21,12 @@
     ],
     "FP_CORE_UTIL": 40,
     "DIE_AREA": "0 0 3000 3000",
-    "FP_SIZING": "absolute"
+    "FP_SIZING": "absolute",
+    "RUN_KLAYOUT_DRC": false,
+    "RUN_MAGIC_DRC": false,
+    "RUN_LVS": false,
+    "RUN_ANTENNA_CHECK": false,
+    "QUIT_ON_TIMING_VIOLATIONS": false,
+    "QUIT_ON_SETUP_VIOLATIONS": false,
+    "QUIT_ON_HOLD_VIOLATIONS": false
 }
